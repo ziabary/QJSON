@@ -63,7 +63,7 @@ unix{
   target.path = $$prefix
 
   header_files.files = $$BASE_HEADERS
-  header_files.path = $$prefix/include
+  header_files.path = $$prefix/include/lib$$ProjectName
 
 #  system("mkdir -p $$prefix/include")
   INSTALLS += target header_files
