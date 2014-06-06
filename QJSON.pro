@@ -1,6 +1,6 @@
 #####################################################################
  # QJSON : A Qt5 like JSON library that can be used in Qt 4.8+
- # Copyright (C) 2012-2014  S.M.Mohammadzadeh <mehran.m@aut.ac.ir>
+ # Copyright (C) 2012-2014  S.Mohammad M. Ziabary <mehran.m@aut.ac.ir>
  #
  # This program is free software; you can redistribute it and/or modify
  # it under the terms of the GNU General Public License as published by
